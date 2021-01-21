@@ -1,0 +1,7 @@
+{
+  "name": "horario2021unoProf",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
